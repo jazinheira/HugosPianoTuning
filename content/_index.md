@@ -24,7 +24,7 @@ feature:
 # services
 services:
   - title: "Serving Piano Owners Across the Metro DMV Area"
-    content: "Conveniently located in Arlington, VA, just minutes from Washington D.C. Whether you're in Northern Virginia, Montgomery County, Maryland, or Washington D.C., I'll come to you for unparalleled piano tuning and maintenance services. Enjoy the convenience of having your piano tuned in the comfort of your own home or venue."
+    content: "Conveniently located in Arlington, VA, just minutes from Washington D.C. Whether you're in Northern Virginia, Montgomery County or P.G. County, Maryland, or Washington D.C., I'll come to you for unparalleled piano tuning and maintenance services. Enjoy the convenience of having your piano tuned in the comfort of your own home or venue."
     images:
       - "/images/gps-navigator-pana-animated.svg"
 
@@ -34,7 +34,7 @@ services:
       link: /contact
 
   - title: "Tuning Master for Legends"
-    content: "Experience the finely tuned mastery trusted by Andrea Bocelli, Mstislav Rostropovich, Washington International School, Hay-Adams Hotel, The Willard Hotel, and Northern Virginia Community College. As an expert piano technician, I bring meticulous care and artistry to every tuning. From concert halls to home studios, I'll elevate your musical experience with my time-honored craft, allowing your piano to sing. Contact me today to achieve the tone musical legends demand."
+    content: "Experience the finely tuned mastery trusted by Andrea Bocelli, Mstislav Rostropovich, Washington International School, Hay-Adams Hotel, The Willard Hotel, and Northern Virginia Community College. As an expert piano tuner, I bring meticulous care and artistry to every tuning. From concert halls to home studios, I'll elevate your musical experience with my time-honored craft, allowing your piano to sing. Contact me today to achieve the tone musical legends appreciate."
     images: 
       - "/images/jazz-band-pana-animated.svg"
     button:
@@ -43,7 +43,7 @@ services:
       link: /contact
   
   - title: "Bi-Annual Tuning: The Key to Year-Round Musical Bliss"
-    content: "I strongly recommend tuning your piano every six months for optimal performance, ensuring that you enjoy playing on a perfectly tuned instrument with your friends and family all year round and especially during the festive season. Not only does regular tuning enhance your musical experience, but it also reduces overall costs associated with piano maintenance, making it a wise investment for any pianist looking to maintain their instrument in pristine condition."
+    content: "I strongly recommend tuning your piano every six months for optimal performance, ensuring that you enjoy playing on a perfectly tuned instrument with your friends and family all year round and especially during the festive seasons. Not only does regular tuning enhance your musical experience, but it also reduces overall costs associated with piano tunings, making it a wise investment for any pianist looking to maintain their instrument in pristine condition."
     images:
       - "/images/playing-music-rafiki-animated.svg"
     button:

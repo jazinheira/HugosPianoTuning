@@ -11,7 +11,7 @@ plans:
     - Professional Tuning
     - Key Cleaning
     - Piano Evaluations
-    - Etc.
+    - New Client Informational Services
   button:
     label: Get in touch for an estimate!
     link: "/contact"
