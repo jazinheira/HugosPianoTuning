@@ -1,0 +1,28 @@
+{
+  "colors": {
+    "default": {
+      "theme_color": {
+        "primary": "#90451c",
+        "secondary": "#d93900",
+        "tertiary": "#d93900",
+        "body": "#eae5db",
+        "border": "#5f210b",
+        "theme_light": "#d0b29c"
+      },
+      "text_color": {
+        "default": "#280d0a",
+        "dark": "#280d0a"
+      }
+    }
+  },
+  "fonts": {
+    "font_family": {
+      "primary": "Fira Sans Extra Condensed:wght@300;400;700",
+      "primary_type": "sans-serif"
+    },
+    "font_size": {
+      "base": "18",
+      "scale": "1.250"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "Hugo's Piano Tuning",
+    "base_url": "/",
+    "favicon": "/images/favicon-512x512.png",
+    "logo": "/images/logo-no-background.png",
+    "logo_width": "300",
+    "logo_height": "150",
+    "logo_text": "Hugo's Piano Tuning"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Schedule Your Tuning",
+    "link": "/contact"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "footer_content": "&#10;",
+    "copyright": "Original theme by [Themefisher](https://themefisher.com/)<br>Play illustrations by [Storyset](https://storyset.com/play)"
+  },
+
+  "metadata": {
+    "meta_author": "Hugo's Piano Tuning",
+    "meta_image": "/images/logo-color.svg",
+    "meta_description": "Hugo's Piano Tuning | Over 40 Years of Harmony"
+  }
+}
