@@ -10,7 +10,7 @@ import "swiper/swiper.min.css";
 import { getListPage } from "../lib/contentParser";
 
 const Home = ({ frontmatter }) => {
-  const { banner, feature, services, workflow, call_to_action } = frontmatter;
+  const { banner, feature, services, workflow, testimonialSection, call_to_action } = frontmatter;
   const { title } = config.site;
 
   return (
@@ -138,21 +138,40 @@ const Home = ({ frontmatter }) => {
       })}
 
       {/* workflow */}
-      <section className="section pb-0 bg-theme-light items-center gap-8 md:grid md:grid-cols-2">
-        <div className="mb-8 text-center md:order-2">
-          {markdownify(
-            workflow.title,
-            "h2",
-            "mx-auto max-w-[400px] font-bold leading-[44px]"
-          )}
-          {markdownify(workflow.description, "p", "mt-3")}
-        </div>
-        <Image
-          src={workflow.image}
-          alt="workflow image"
-          width={600}
-          height={500}
-        />
+      <section className="section bg-theme-light">
+        {testimonialSection && (
+            <div className="container">
+              <div className="items-center gap-8 md:grid md:grid-cols-2">
+                <div className="container px-4 md:order-2">
+                  <h2 className="font-bold leading-[40px]">{testimonialSection.header}</h2>
+                  <p className="mt-4 mb-2">{testimonialSection.subheader}</p>
+                  <div className="rounded-xl shadow bg-white p-4 m-4">
+                    <div className="testimonial-carousel text-center">
+                      <Swiper
+                        modules={[Autoplay, Pagination]}
+                        pagination={testimonialSection.testimonials.length > 1 ? { clickable: true } : false}
+                        autoplay={{
+                          delay: 5000,
+                          disableOnInteraction: false,
+                        }}
+                        init={testimonialSection.testimonials.length > 1 ? false : true}
+                        >
+                        {testimonialSection.testimonials.map((testimonial, index) => (
+                          <SwiperSlide key={index}>
+                            <div className="testimonial-content">
+                              <h4 className="">"{testimonial.content}"</h4>
+                              <h6 className="testimonial-name">&mdash; {testimonial.name}, <i>{testimonial.service}</i></h6>
+                            </div>
+                          </SwiperSlide>
+                        ))}
+                      </Swiper>
+                    </div>
+                  </div>
+                </div>
+                <Image src={workflow.image} alt="workflow image" width={600} height={500}/>
+              </div>
+            </div>
+        )}
       </section>
 
       {/* Cta */}

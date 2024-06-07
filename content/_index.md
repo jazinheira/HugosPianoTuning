@@ -59,15 +59,30 @@ workflow:
 
 # testimonials
 testimonialSection: 
-  header: "Breathe New Life Into Your Piano"
-  subheader: "Listen to these fine folks."
+  header: "Happy Keys, Happy Clients"
+  subheader: "From concert halls to living rooms, hear from those who've experienced my tuning firsthand."
   testimonials:
-    - name: "X"
-      service: "Yelp"
-      content: "Loved it super good tuning."
-    - name: "X2"
+    - name: "Eric Dyne"
       service: "Google"
-      content: "Even better than the other guys"
+      content: "He was wonderful, I strongly recommend using him. My piano sings now. He was prompt, professional, and courteous, Michael does a phenomenal job."
+    - Name: "A. L."
+      service: "Yelp"
+      content: "Michael did a great job on our piano. He is reasonably priced in comparison to other local tuners."
+    - name: "Dana Bulba"
+      service: "Google"
+      content: "Great piano tuning. Travels to your home. Very knowledgeable, skilled, & lots of references."
+    - name: "Diana J."
+      service: "Yelp"
+      content: "Michael just enjoys music and appreciates how significant a piano can be for a family."
+    - name: "Pam T."
+      service: "Yelp"
+      content: "He's a professional piano tuner and is fairly priced and knowledgeable. He's offers his service with a fair price. He's precise and my instrument sound wonderful."
+    - name: "William Brakefield"
+      service: "Google"
+      content: "Michael has been tuning my pianos for over 30 years. The piano sounds perfect, and he’s never ever late ! Best piano tuner ever!"
+    - name: "JJ"
+      service: "Google"
+      content: "Mike Hugo had been tuning my Steinway for many years and does a great job. What I love about him is that he calls every six months and it is easy to schedule the appointment."
 
 # call_to_action
 call_to_action:
