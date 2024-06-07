@@ -34,11 +34,11 @@ const Footer = () => {
                 {markdownify(col.name, "h2", "h4")}
                 <ul className="mt-6">
                   {col?.menu.map((item) => (
-                    <li className="mb-1" key={item.text}>
+                    <h5><li className="mb-1" key={item.text}>
                       <Link href={item.url} rel="">
                         {item.text}
                       </Link>
-                    </li>
+                    </li></h5>
                   ))}
                 </ul>
               </div>
