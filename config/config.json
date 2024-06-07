@@ -3,7 +3,7 @@
     "title": "Hugo's Piano Tuning",
     "base_url": "/",
     "favicon": "/images/favicon-512x512.png",
-    "logo": "/images/logo-no-background.png",
+    "logo": "/images/logo-no-background.svg",
     "logo_width": "270",
     "logo_height": "150",
     "logo_text": "Hugo's Piano Tuning"
