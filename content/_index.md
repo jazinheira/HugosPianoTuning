@@ -24,7 +24,7 @@ feature:
 # services
 services:
   - title: "Serving Piano Owners Across the Metro DMV Area"
-    content: "Conveniently located in Arlington, VA, just minutes from Washington D.C. Whether you're in Northern Virginia, Montgomery County or P.G. County, Maryland, or Washington D.C., I'll come to you for unparalleled piano tuning and maintenance services. Enjoy the convenience of having your piano tuned in the comfort of your own home or venue."
+    content: "Conveniently located in Arlington, VA, just minutes from Washington D.C. Whether you're in Northern Virginia, Montgomery County or P.G. County, Maryland, or Washington D.C., I'll come to you for unparalleled piano tuning and key cleaning. Enjoy the convenience of having your piano tuned in your own home or venue."
     images:
       - "/images/gps-navigator-pana-animated.svg"
 
