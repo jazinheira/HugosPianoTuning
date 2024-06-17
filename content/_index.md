@@ -4,7 +4,9 @@ banner:
   content: I'm Michael Hugo! I've professionally tuned pianos throughout the Washington D.C. area for over 40 years. I provide professional piano services including tuning, evaluations, and key cleaning.
   image: /images/jazz-piano-rafiki-animated.svg
   button:
-    label: "Contact Us"
+    enable: true
+    label: "Contact Me"
+    rel: contact
     link: "/contact"
 
 # feature
@@ -94,6 +96,6 @@ call_to_action:
   image: '/images/cell-phone-rafiki-animated.svg'
   button:
     enable: true
-    label: "Contact"
+    label: "Contact Me"
     link: "/contact"
 ---
