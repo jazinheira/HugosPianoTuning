@@ -27,6 +27,7 @@ const Document = () => {
           media="(prefers-color-scheme: dark)"
           content="#000"
         />
+      <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "08a033906b3c436fab887737eb86d530"}'></script><!-- End Cloudflare Web Analytics -->
       </Head>
       <body>
         <Main />
