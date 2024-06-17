@@ -1,11 +1,11 @@
 ---
 banner:
   title: Let's get your piano performance ready
-  content: I'm Michael Hugo! I've professionally tuned pianos throughout the Washington D.C. area for over 40 years. I provide professional piano services including tuning, evaluations, and key cleaning.
+  content: I'm Michael Hugo! I've professionally tuned pianos throughout the Washington D.C. area for over 40 years. I provide professional piano services including tuning, evaluations, and key cleaning. Call me at (703) 597-6465 to schedule your appointment!
   image: /images/jazz-piano-rafiki-animated.svg
   button:
     enable: true
-    label: "Contact Me"
+    label: "Contact Me To Schedule"
     rel: contact
     link: "/contact"
 
