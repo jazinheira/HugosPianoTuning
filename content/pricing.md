@@ -5,7 +5,7 @@ draft: false
 plans:
 - title: Tune Up
   subtitle: Prices will vary based on the needs of the piano and the services required!
-  price: 165 - $315
+  price: 170 - $320
   type: service
   features:
     - Professional Tuning
