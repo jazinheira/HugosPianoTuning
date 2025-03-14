@@ -4,7 +4,7 @@ layout: pricing
 draft: false
 plans:
 - title: Tune Up
-  subtitle: "Prices will vary based on the needs of the piano and the services required! Payment types accepted: Cash, Check, and Zello"
+  subtitle: "Prices will vary based on the needs of the piano and the services required! Payment types accepted: Cash, Check, and Venmo"
   price: 170 - $320
   type: service
   features:
