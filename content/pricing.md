@@ -5,7 +5,7 @@ draft: false
 plans:
 - title: Tune Up
   subtitle: "Prices will vary based on the needs of the piano and the services required! Payment types accepted: Zelle, Cash, Check ($25 fee for returned checks)"
-  price: 180 - $330
+  price: 190 - $340
   type: service
   features:
     - Professional Tuning
